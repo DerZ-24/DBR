@@ -1,5 +1,5 @@
 #MANTAP ANJAI BUAT TOOLS LW 
- #HAH LU RENAME TOOLS GUE? AUTO VIRAL LU DECK 
+ #HAH LU RENAME TOOLS GUE? AUTO VIRAL LU DEK
  import random 
  import socket 
  import threading 
